@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AdityaJaiswalCNCS
+- 👋 Hi, I’m @AdityaJaiswal
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning a programming language , i.e. Python.
+- 🌱 Python , C , Java , Kali Linux
 
 
 
